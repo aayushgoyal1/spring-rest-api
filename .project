@@ -1,3 +1,6 @@
+// Identity Services REST application template based on the Spring Boot Java framework
+// standard presentation -> services layer -> DAO framework
+
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	      <name>RESTApplication</name>
