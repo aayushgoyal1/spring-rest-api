@@ -1,6 +1,6 @@
 # spring-rest-api
 
-myimage-alt-tag
+
 
 Features:
 
